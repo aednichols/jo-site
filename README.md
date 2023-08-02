@@ -1,3 +1,11 @@
+# About Jo
+
+I am 66 years old, I live in Buffalo, New York, and I need a kidney transplant. A living donor is my best chance for survival.
+
+# About my illness
+
+I suffer from acute kidney injury (AKI) due to chronic kidney stones. Over the years, the stones cause the kidneys to lose function. And there are side effects, like difficult infections and dangerously low blood cell counts.
+
 # Biscuit theme for Jekyll
 
 [Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
