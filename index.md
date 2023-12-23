@@ -6,7 +6,7 @@ layout: default
 
 #### About Jo
 
-I am 66 years old, I live in Buffalo, New York, and I need a kidney transplant. A living donor is my best chance for survival.
+I am 67 years old, I live in Buffalo, New York, and I need a B+ type kidney transplant. A living donor is my best chance for survival.
 
 #### About my illness
 
